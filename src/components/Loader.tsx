@@ -26,7 +26,7 @@ export default function Loader() {
 
     return (
         <div className="loader" ref={ref}>
-            <p className="loader__script">Pappu &amp; Priya</p>
+            <p className="loader__script">Pappu &amp; Varsha</p>
             <div className="loader__bar" />
         </div>
     )

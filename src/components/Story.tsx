@@ -81,7 +81,7 @@ export default function Story() {
                 </div>
                 <p>
                     What began as a quiet glance across a room blossomed into a love story
-                    as vibrant as marigolds on a monsoon morning. Pappu and Priya's journey
+                    as vibrant as marigolds on a monsoon morning. Pappu and Varsha's journey
                     is one woven with laughter, late evenings, shared dreams, and the warm
                     certainty that they were always meant to find each other.
                 </p>

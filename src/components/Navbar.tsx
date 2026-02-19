@@ -19,7 +19,7 @@ export default function Navbar() {
 
     return (
         <nav className={`navbar${scrolled ? ' scrolled' : ' navbar--hero'}`}>
-            <a className="navbar__logo" href="#hero">P &amp; P</a>
+            <a className="navbar__logo" href="#hero">P &amp; V</a>
             <ul className="navbar__links">
                 {links.map((l) => (
                     <li key={l.label}>

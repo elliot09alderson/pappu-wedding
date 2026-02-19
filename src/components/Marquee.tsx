@@ -1,9 +1,9 @@
 export default function Marquee() {
     const items = [
         'Haldi Ceremony', '✦', 'Reception Night', '✦',
-        'Pappu & Priya', '✦', 'March 2026', '✦',
+        'Pappu & Varsha', '✦', 'March 2026', '✦',
         'Love & Blessings', '✦', 'Haldi Ceremony', '✦',
-        'Reception Night', '✦', 'Pappu & Priya', '✦',
+        'Reception Night', '✦', 'Pappu & Varsha', '✦',
         'March 2026', '✦', 'Love & Blessings', '✦',
     ]
 

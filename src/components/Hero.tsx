@@ -46,7 +46,7 @@ export default function Hero() {
                 <h1 className="hero__title">
                     <span className="name1">Pappu</span>
                     <span className="hero__ampersand">&amp;</span>
-                    <span className="name2">Priya</span>
+                    <span className="name2">Varsha</span>
                 </h1>
                 <p className="hero__date">March 15, 2026 &nbsp;·&nbsp; Rajasthan, India</p>
             </div>
